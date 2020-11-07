@@ -7,11 +7,11 @@ gem install nokogiri mechanize days_and_times ruby-progressbar file-utils
 gem install roman-numerals nokogiri-happymapper unidecoder ruby-xz
 
 
-git clone https://github.com/frantisheq/rbxmltv.git
+git clone https://github.com/Oggy123/rbxmltv.git
 
 cd rbxmltv
 
-git clone https://github.com/frantisheq/rbxmltv-data.git
+git clone https://github.com/Oggy123/rbxmltv-data.git
 
 
 
